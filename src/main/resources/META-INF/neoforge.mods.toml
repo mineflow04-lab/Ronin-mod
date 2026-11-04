@@ -1,0 +1,26 @@
+modLoader = "javafml"
+loaderVersion = "[1,)"
+license = "MIT"
+
+[[mods]]
+modId = "roninpath"
+version = "${mod_version}"
+displayName = "Ronin's Path"
+description = '''
+Rank system, Oni mini-boss, Kitsune shrines and onigiri.
+Designed to plug into FTB Quests via commands and advancements.
+'''
+
+[[dependencies.roninpath]]
+modId = "neoforge"
+type = "required"
+versionRange = "[21.1.0,)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.roninpath]]
+modId = "minecraft"
+type = "required"
+versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "H",
+    "D",
+    "S"
+  ],
+  "key": {
+    "H": {
+      "item": "roninpath:oni_horn"
+    },
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "roninpath:oni_kanabo",
+    "count": 1
+  }
+}

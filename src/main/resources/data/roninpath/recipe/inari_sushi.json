@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "food",
+  "ingredients": [
+    {
+      "item": "roninpath:aburaage"
+    },
+    {
+      "item": "roninpath:onigiri"
+    }
+  ],
+  "result": {
+    "id": "roninpath:inari_sushi",
+    "count": 1
+  }
+}
